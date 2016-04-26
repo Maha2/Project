@@ -1,3 +1,4 @@
+
 package class11Assignment.question1;
 
 public class SchoolClient {
@@ -12,6 +13,10 @@ public class SchoolClient {
 		stuAlekhya.stuName = "Alekhya";
 		stuAlekhya.stuId = 2;
 		stuAlekhya.stuGrade = "Fifth";
+		
+		
+		
+		
 
 		System.out.println(stuMaha.stuName);
 
